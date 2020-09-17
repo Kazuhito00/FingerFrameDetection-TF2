@@ -57,7 +57,7 @@ Google Colaboratory上のみで訓練とモデルのエクスポートまで行�
 訓練中のチェックポイントとエクスポートモデルはGoogleドライブ上に保存します。
 
 #### webcam_demo.py
-XXXXXXXX
+推論用のサンプルプログラムです。
 
 #### 01_dataset
 annotation─┬─FingerFrameDetection-export.csv
