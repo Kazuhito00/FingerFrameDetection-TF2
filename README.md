@@ -1,5 +1,5 @@
 # FingerFrameDetection-TF2
-Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデルです。
+Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデルです。<br>
 このリポジトリは、データセット・訓練済みモデルを含んでおり、約2.9 GBあるため、クローンする際には注意ください。
 
 # Requirement 
