@@ -1,3 +1,4 @@
+[Japanese/[English](https://github.com/Kazuhito00/FingerFrameDetection-TF2/blob/master/README_EN.md)] 
 # FingerFrameDetection-TF2
 Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデルです。<br>
 現在はEfficientDet D0のモデルを公開しています。<br>
