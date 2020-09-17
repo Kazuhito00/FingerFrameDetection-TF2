@@ -80,7 +80,7 @@ EfficientDetD0
 -
 
 # ToDo
--
+- [ ] SSD MobileNet v2 320x320 訓練
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
