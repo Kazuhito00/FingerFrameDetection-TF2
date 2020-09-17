@@ -6,15 +6,14 @@ Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデル
 * OpenCV 3.4.2 or later
 
 # Usage
-推論サンプル(Webカメラ)の実行方法は以下です。<br>
+推論サンプル(Webカメラ)の実行方法は以下です。
+```bash
+python webcam_demo.py
+```
 推論を実行するだけであれば、以下のみで実行可能です。
 * webcam_demo.py
 * 04_modelディレクトリ
 
-```bash
-python webcam_demo.py
-```
- 
 # Directory
 <pre>
 2.87 GiB 
