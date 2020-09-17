@@ -1,4 +1,4 @@
-[[Japanese](https://github.com/Kazuhito00/FingerFrameDetection-TF2)/English]  ※This text is translated using Google Translate.
+[[Japanese](https://github.com/Kazuhito00/FingerFrameDetection-TF2)/English]
 # FingerFrameDetection-TF2
 This is a model for FingerFrame detection created by Tensorflow2 Object Detection API.<br>
 Currently, the model of EfficientDet-D0 is open to the public.<br>
