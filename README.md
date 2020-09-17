@@ -15,12 +15,12 @@ python webcam_demo.py
 * 04_model ディレクトリ
 
 また、デモ実行時には、以下のオプションが指定可能です。
-* --device<br>カメラデバイス番号の指定(デフォルト：0)
-* --width<br>カメラキャプチャ時の横幅(デフォルト：960)
-* --height<br>カメラキャプチャ時の縦幅(デフォルト：540)
-* --model<br>モデル読み込みパス(デフォルト：'04_model/EfficientDetD0/saved_model')
-* --score_th<br>検出閾値(デフォルト：0.75)
-* --fps<br>処理FPS(デフォルト：10) ※推論時間がFPSを下回る場合のみ有効
+* --device<br>カメラデバイス番号の指定 (デフォルト：0)
+* --width<br>カメラキャプチャ時の横幅 (デフォルト：960)
+* --height<br>カメラキャプチャ時の縦幅 (デフォルト：540)
+* --model<br>モデル読み込みパス (デフォルト：'04_model/EfficientDetD0/saved_model')
+* --score_th<br>検出閾値 (デフォルト：0.75)
+* --fps<br>処理FPS (デフォルト：10) ※推論時間がFPSを下回る場合のみ有効
 
 # Directory
 <pre>
