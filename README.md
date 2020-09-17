@@ -51,26 +51,26 @@ python webcam_demo.py
                                           └─variables─┬─variables.data-00000-of-00001
                                                       └─variables.index
 </pre>
-#### [Colaboratory]train.ipynb
+### [Colaboratory]train.ipynb
 モデル訓練用スクリプトです。<br>
 Google Colaboratory上のみで訓練とモデルのエクスポートまで行います。<br>
 訓練中のチェックポイントとエクスポートモデルはGoogleドライブ上に保存します。
 
-#### webcam_demo.py
+### webcam_demo.py
 推論用のサンプルプログラムです。
 
-#### 01_dataset
+### 01_dataset
 annotation─┬─FingerFrameDetection-export.csv
            └─FingerFrameDetection-export.json 
 image
 
-#### 02_tfrecord
+### 02_tfrecord
 tf_label_map.pbtxt
 
-#### 03_config
+### 03_config
 efficientdet_d0_pipeline.config
       
-#### 04_model
+### 04_model
 EfficientDetD0
 
 # Training
