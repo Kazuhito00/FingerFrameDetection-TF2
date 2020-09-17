@@ -32,21 +32,21 @@ python webcam_demo.py
 │  ├─annotation─┬─FingerFrameDetection-export.csv
 │  │            └─FingerFrameDetection-export.json 
 │  │      
-│  └─image─┬─000000.jpg
-│          │     :
-│          └─003471.jpg
+│  └─image──────┬─000000.jpg
+│               │     :
+│               └─003471.jpg
 │          
-├─02_tfrecord─┬─000000.tfrecord
-│             │        :
-│             ├─003471.tfrecord
-│             └─tf_label_map.pbtxt
+├─02_tfrecord───┬─000000.tfrecord
+│               │        :
+│               ├─003471.tfrecord
+│               └─tf_label_map.pbtxt
 │      
 ├─03_config───efficientdet_d0_pipeline.config
 │      
 └─04_model───EfficientDetD0─┬─pipeline.config
-                            ├─checkpoint─┬─checkpoint
-                            │            ├─ckpt-0.data-00000-of-00001
-                            │            └─ckpt-0.index
+                            ├─checkpoint──┬─checkpoint
+                            │             ├─ckpt-0.data-00000-of-00001
+                            │             └─ckpt-0.index
                             └─saved_model─┬─saved_model.pb
                                           └─variables─┬─variables.data-00000-of-00001
                                                       └─variables.index
