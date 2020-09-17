@@ -84,9 +84,9 @@ TFRecordとtf_label_map.pbtxtはVoTTで作成しています。
 
 # Training
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/FingerFrameDetection-TF2/blob/master/[Colaboratory]train.ipynb)
-
-# Note
--
+Colaboratory上でモデル訓練を行うスクリプトです。
+上から順に実施してください。
+エクスポートはGoogleドライブに行います。
 
 # ToDo
 - [ ] SSD MobileNet v2 320x320 訓練
