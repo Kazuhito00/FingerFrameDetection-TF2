@@ -83,9 +83,9 @@ TFRecordとtf_label_map.pbtxtはVoTTで作成しています。
 * EfficientDetD0
 
 # Training
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/FingerFrameDetection-TF2/blob/master/[Colaboratory]train.ipynb)
-Colaboratory上でモデル訓練を行うスクリプトです。
-上から順に実施してください。
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/FingerFrameDetection-TF2/blob/master/[Colaboratory]train.ipynb)<br>
+Colaboratory上でモデル訓練を行うスクリプトです。<br>
+上から順に実施してください。<br>
 エクスポートはGoogleドライブに行います。
 
 # ToDo
