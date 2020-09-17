@@ -25,8 +25,8 @@ python webcam_demo.py
 
 # Directory
 <pre>
-│  [Colaboratory]train.ipynb
-│  webcam_demo.py
+│ [Colaboratory]train.ipynb
+│ webcam_demo.py
 │  
 ├─01_dataset
 │  ├─annotation─┬─FingerFrameDetection-export.csv
