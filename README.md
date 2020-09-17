@@ -5,7 +5,7 @@ Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデル
 * Tensorflow 2.3.0 or later
 * OpenCV 3.4.2 or later
 
-# Usage
+# Demo
 推論サンプル(Webカメラ)の実行方法は以下です。
 ```bash
 python webcam_demo.py
