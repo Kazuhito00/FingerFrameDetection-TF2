@@ -1,7 +1,9 @@
+[[Japanese](https://github.com/Kazuhito00/FingerFrameDetection-TF2)/English] 
 # FingerFrameDetection-TF2
-Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデルです。<br>
-現在はEfficientDet D0のモデルを公開しています。<br>
-このリポジトリはデータセット・訓練済みモデルを含み、サイズが約2.9 GBあるため、クローンする際には注意ください。
+This text is translated using Google Translate.<br><br>
+This is a model for FingerFrame detection created by Tensorflow2 Object Detection API.<br>
+Currently, the model of EfficientDet-D0 is open to the public.<br>
+Be careful when git clone, as this repository contains datasets and trained models and is approximately 2.9 GB in size.
 
 ![2fzd3-s9k3u](https://user-images.githubusercontent.com/37477845/93489320-56583300-f942-11ea-9084-f0c441c0f9cd.gif)
 
