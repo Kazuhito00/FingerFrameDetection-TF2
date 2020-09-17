@@ -62,18 +62,24 @@ Google Colaboratory上のみで訓練とモデルのエクスポートまで行�
 推論用のサンプルプログラムです。
 
 ### 01_dataset
-annotation─┬─FingerFrameDetection-export.csv
-           └─FingerFrameDetection-export.json 
-image
+画像データセットとアノテーションファイルを格納しています。<br>
+アノテーションファイルはVoTTで作成しています。
+* imageディレクトリ
+* annotationディレクトリ<br>
+    * FingerFrameDetection-export.csv
+    * FingerFrameDetection-export.json
 
 ### 02_tfrecord
-tf_label_map.pbtxt
+アノテーション済みデータセットをTFRecordに変換し格納しています。
+TFRecordとtf_label_map.pbtxtはVoTTで作成しています。
 
 ### 03_config
-efficientdet_d0_pipeline.config
+ファインチューニング用のパイプラインコンフィグを格納しています。
+* efficientdet_d0_pipeline.config
       
 ### 04_model
-EfficientDetD0
+ファインチューニング済モデルを格納しています。
+* EfficientDetD0
 
 # Training
 -
