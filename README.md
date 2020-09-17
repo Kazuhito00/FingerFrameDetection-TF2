@@ -1,5 +1,6 @@
 # FingerFrameDetection-TF2
 Tensorflow2 Object Detection APIで作成したFinger Frame検出用のモデルです。
+このリポジトリは、データセット・訓練済みモデルを含んでおり、約2.9 GBあるため、クローンする際には注意ください。
 
 # Requirement 
 * Tensorflow 2.3.0 or later
@@ -24,7 +25,6 @@ python webcam_demo.py
 
 # Directory
 <pre>
-2.87 GiB 
 │  [Colaboratory]train.ipynb
 │  webcam_demo.py
 │  
