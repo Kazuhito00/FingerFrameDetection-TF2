@@ -44,6 +44,9 @@ python webcam_demo.py
                                                       └─variables.index
 </pre>
 
+# Training
+-
+
 # Note
 -
 
