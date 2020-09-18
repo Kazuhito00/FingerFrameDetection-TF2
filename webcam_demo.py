@@ -59,8 +59,6 @@ def main():
     loaded_model = tf.saved_model.load(model_path)
     inference_func = loaded_model.signatures[DEFAULT_FUNCTION_KEY]
 
-    fps = 10
-
     while True:
         start_time = time.time()
 
