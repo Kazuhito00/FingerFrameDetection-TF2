@@ -87,7 +87,9 @@ TFRecordとtf_label_map.pbtxtはVoTTで作成しています。
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/FingerFrameDetection-TF2/blob/master/[Colaboratory]train.ipynb)<br>
 Colaboratory上でモデル訓練を行うスクリプトです。<br>
 上から順に実施してください。<br>
-モデルのエクスポートはGoogleドライブに行います。
+モデルのエクスポートはGoogleドライブに行います。<br>
+Colaboratory上での訓練は1000ステップで30分程度です。<br>
+収束するまでに10000ステップほど必要ですが、1000ステップ程度でも、そこそこ検出するようになります。
 
 # ToDo
 - [ ] SSD MobileNet v2 320x320 訓練
