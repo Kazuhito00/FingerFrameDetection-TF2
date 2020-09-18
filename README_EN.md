@@ -87,7 +87,10 @@ Contains fine-tuned models.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/FingerFrameDetection-TF2/blob/master/[Colaboratory]train.ipynb)<br>
 This is a script for model training on Colaboratory.<br>
 Please carry out in order from the top.<br>
-Export the model to Google Drive.
+Export the model to Google Drive.<br>
+Training on the Colaboratory takes about 30 minutes in 1000 steps.<br>
+It takes about 10,000 steps to converge, but detection itself is possible even with 1000 steps.
+
 
 # ToDo
 - [ ] SSD MobileNet v2 320x320 training
